@@ -7,4 +7,8 @@ authors = [
     { name = "Taehyun Lee", email = "0417taehyun@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "matplotlib>=3.11.2",
+    "torch>=2.14.1",
+    "torchvision>=0.29.1",
+]

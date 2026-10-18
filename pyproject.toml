@@ -1,0 +1,10 @@
+[project]
+name = "deep-learning-with-pytorch-a-60-minute-blitz"
+version = "1.0.0"
+description = "Deep Learning with PyTorch: A 60 Minute Blitz"
+readme = "README.md"
+authors = [
+    { name = "Taehyun Lee", email = "0417taehyun@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = []

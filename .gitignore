@@ -3,3 +3,6 @@
 
 # Package
 .venv/
+
+# Dataset
+data
